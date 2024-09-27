@@ -1,0 +1,2 @@
+>>> a= "Camrin Felkins\n \(he\/him\)\nMy favorite movie is a hard question\.\.\. probably 'There Will Be Blood' a story about an oil baron in the early 1900s who becomes obsessed with his work and consumed by greed\, driving what little people care about him away as his dreams become reality\.\nMy favorite food has to be sushi\, I am always in a better mood after a sushi date\."
+>>> print(a)
