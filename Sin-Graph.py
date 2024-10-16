@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def main():
 	#make x axis range between 0 and 2pi broken into 1000 points 
-	x = np.arange(0, 2*np.pi, .001)
+	x = np.arange(0, 2*np.pi, 1000)
 	#y is the sin of x
 	y = np.sin(x)
 
